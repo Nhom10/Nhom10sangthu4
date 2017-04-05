@@ -85,7 +85,7 @@
 <input type="hidden" name="RadScriptManager1_TSM" id="RadScriptManager1_TSM" value=";;System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35:vi-VN:509f92a1-e5fd-464f-a450-13846a6c973b:ea597d4b:b25378d2;Telerik.Web.UI, Version=2011.1.315.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4:vi-VN:e4ca4719-c559-4761-8501-9be20bbda1fe:16e4e7cd:874f8ea2:f7645509:24ee1bba:f46195d3:19620875:490a9d4e:bd8f85e4:e330518b:1e771326:c8618e41">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhkNDcxNzIxMjE4NWNhNxgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgURUmFkV2luZG93TWFuYWdlcjEFOmN0bDA2JHBvcnRsZXRfODAwODg2YTgtY2NiNS00MGRkLTgxM2EtMmMwMmFjMGQyZTkyJFJhZE1lbnW/mpWQvuHY2QySIyYly4amzT63ng==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhkNDcwZmRiYmUxOTI3YxgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgURUmFkV2luZG93TWFuYWdlcjEFOmN0bDA2JHBvcnRsZXRfODAwODg2YTgtY2NiNS00MGRkLTgxM2EtMmMwMmFjMGQyZTkyJFJhZE1lbnUR+UZWmjnrPqMH70uLW2H75zeFhg==">
 </div>
 
 <script type="text/javascript">
@@ -249,16 +249,16 @@ Sys.WebForms.PageRequestManager._initialize('RadScriptManager1', 'form1', [], []
     <div class="slider-wrapper theme-default">
         <div id="slider" class="nivoSlider" style="height: 350px;">
           
-        <a href="http://icsse2017.hcmute.edu.vn/" target="_blank" class="nivo-imageLink" style="display: block;">
+        <a href="http://icsse2017.hcmute.edu.vn/" target="_blank" class="nivo-imageLink" style="display: none;">
                 <img src="./WELCOME TO ICSSE 2017_files/HNQT3.jpg" title="" style="height: 350px; width: 1000px; visibility: hidden; display: inline;"></a>
     
-        <a href="http://icsse2017.hcmute.edu.vn/" target="_blank" class="nivo-imageLink" style="display: none;">
+        <a href="http://icsse2017.hcmute.edu.vn/" target="_blank" class="nivo-imageLink" style="display: block;">
                 <img src="./WELCOME TO ICSSE 2017_files/HNQT2.jpg" title="" style="height: 350px; width: 1000px; visibility: hidden; display: inline;"></a>
     
         <a href="http://icsse2017.hcmute.edu.vn/" target="_blank" class="nivo-imageLink" style="display: none;">
                 <img src="./WELCOME TO ICSSE 2017_files/HNQT1.jpg" title="" style="height: 350px; width: 1000px; visibility: hidden; display: inline;"></a>
     
-        <img class="nivo-main-image" src="./WELCOME TO ICSSE 2017_files/HNQT3.jpg" style="display: inline; height: auto; width: 1000px;"><div class="nivo-caption"></div><div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div></div><div class="nivo-controlNav"><a class="nivo-control active" rel="0">1</a><a class="nivo-control" rel="1">2</a><a class="nivo-control" rel="2">3</a></div>
+        <img class="nivo-main-image" src="./WELCOME TO ICSSE 2017_files/HNQT2.jpg" style="display: inline; height: auto; width: 1000px;"><div class="nivo-caption"></div><div class="nivo-directionNav"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div></div><div class="nivo-controlNav"><a class="nivo-control" rel="0">1</a><a class="nivo-control active" rel="1">2</a><a class="nivo-control" rel="2">3</a></div>
     </div>
 </div>
 <script>
@@ -406,7 +406,7 @@ Sys.WebForms.PageRequestManager._initialize('RadScriptManager1', 'form1', [], []
 <p style="text-align: justify;"><span style="font-size: 12px; color: #002060;"><strong><br>
 </strong></span></p>
 <div style="text-align: center;"><strong><strong style="text-align: left;"><span style="font-size: 16px;"><span style="text-decoration: line-through;">March 7, 2017</span><br>
-<strong><span style="color: #c00000;">Extended untill March 26, 2017</span></strong><br>
+<strong><span style="color: #c00000;">Extended untill March 19, 2017</span></strong><br>
 </span></strong></strong></div>
 <span style="font-size: 16px; color: #002060;"><strong>
 </strong>
@@ -493,9 +493,9 @@ PAPER FORMAT TEMPLATE DOWNLOAD</strong></a>&nbsp;<br>
 					
 <div class="truycap_ute">
     <p>Visit month:
-        <span id="ctl06_portlet_5c231c9e-b9b3-474f-bb01-834b95465666_Label4">3,004</span></p>
+        <span id="ctl06_portlet_5c231c9e-b9b3-474f-bb01-834b95465666_Label4">2,746</span></p>
     <p class="line_footer"></p>
-    <p>Visit total:<span id="ctl06_portlet_5c231c9e-b9b3-474f-bb01-834b95465666_Label1">6,482</span></p>
+    <p>Visit total:<span id="ctl06_portlet_5c231c9e-b9b3-474f-bb01-834b95465666_Label1">6,224</span></p>
 </div>
 
 				</div></div><div id="ctl06_portlet_8b056785-3dc4-4de8-9516-a546e8152a5c" style="float:left;"><div>
